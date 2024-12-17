@@ -1,5 +1,5 @@
 ---
-layout: pagina
+layout: page
 title: Blog
 ---
 
